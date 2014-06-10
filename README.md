@@ -1,8 +1,3 @@
-Singapore-MIT-GAMBIT-Programming-Test
-=====================================
-
-A sample C# space game programming test to qualify for the GAMBIT summer research initiative
-
 Setup
 ======
 Requires Visual Studio with C#. 
