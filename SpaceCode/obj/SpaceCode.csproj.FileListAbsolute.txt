@@ -1,0 +1,17 @@
+C:\Code\GAMBIT\haydnMain\DevTeam\Evaluation\SpaceCode\bin\Debug\Images\Missile.bmp
+C:\Code\GAMBIT\haydnMain\DevTeam\Evaluation\SpaceCode\bin\Debug\Images\Planet.bmp
+C:\Code\GAMBIT\haydnMain\DevTeam\Evaluation\SpaceCode\bin\Debug\Images\Ship.bmp
+C:\Code\GAMBIT\haydnMain\DevTeam\Evaluation\SpaceCode\bin\Debug\SpaceCode.exe
+C:\Code\GAMBIT\haydnMain\DevTeam\Evaluation\SpaceCode\bin\Debug\SpaceCode.pdb
+C:\Code\GAMBIT\haydnMain\DevTeam\Evaluation\SpaceCode\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\GAMBIT\haydnMain\DevTeam\Evaluation\SpaceCode\obj\Debug\SpaceCode.Form1.resources
+C:\Code\GAMBIT\haydnMain\DevTeam\Evaluation\SpaceCode\obj\Debug\SpaceCode.Properties.Resources.resources
+C:\Code\GAMBIT\haydnMain\DevTeam\Evaluation\SpaceCode\obj\Debug\SpaceCode.SpaceControl.resources
+C:\Code\GAMBIT\haydnMain\DevTeam\Evaluation\SpaceCode\obj\Debug\SpaceCode.Sprite.resources
+C:\Code\GAMBIT\haydnMain\DevTeam\Evaluation\SpaceCode\obj\Debug\SpaceCode.csproj.GenerateResource.Cache
+C:\Code\GAMBIT\haydnMain\DevTeam\Evaluation\SpaceCode\obj\Debug\SpaceCode.exe
+C:\Code\GAMBIT\haydnMain\DevTeam\Evaluation\SpaceCode\obj\Debug\SpaceCode.pdb
+C:\Code\GAMBIT\haydnMain\DevTeam\Evaluation\SpaceCode\bin\Debug\Images\Missile.gif
+C:\Code\GAMBIT\haydnMain\DevTeam\Evaluation\SpaceCode\bin\Debug\Images\Planet.gif
+C:\Code\GAMBIT\haydnMain\DevTeam\Evaluation\SpaceCode\bin\Debug\Images\Ship.gif
+C:\Code\GAMBIT\haydnMain\DevTeam\Evaluation\SpaceCode\bin\Debug\Images\FlatTarget.gif

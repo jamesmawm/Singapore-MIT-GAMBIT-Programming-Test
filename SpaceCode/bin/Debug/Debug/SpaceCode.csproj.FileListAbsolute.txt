@@ -1,0 +1,17 @@
+C:\Documents and Settings\James\Desktop\SpaceCode\SpaceCode\bin\Debug\Images\FlatTarget.gif
+C:\Documents and Settings\James\Desktop\SpaceCode\SpaceCode\bin\Debug\Images\Missile.bmp
+C:\Documents and Settings\James\Desktop\SpaceCode\SpaceCode\bin\Debug\Images\Missile.gif
+C:\Documents and Settings\James\Desktop\SpaceCode\SpaceCode\bin\Debug\Images\Planet.bmp
+C:\Documents and Settings\James\Desktop\SpaceCode\SpaceCode\bin\Debug\Images\Planet.gif
+C:\Documents and Settings\James\Desktop\SpaceCode\SpaceCode\bin\Debug\Images\Ship.bmp
+C:\Documents and Settings\James\Desktop\SpaceCode\SpaceCode\bin\Debug\Images\Ship.gif
+C:\Documents and Settings\James\Desktop\SpaceCode\SpaceCode\bin\Debug\SpaceCode.exe
+C:\Documents and Settings\James\Desktop\SpaceCode\SpaceCode\bin\Debug\SpaceCode.pdb
+C:\Documents and Settings\James\Desktop\SpaceCode\SpaceCode\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\James\Desktop\SpaceCode\SpaceCode\obj\Debug\SpaceCode.Form1.resources
+C:\Documents and Settings\James\Desktop\SpaceCode\SpaceCode\obj\Debug\SpaceCode.Properties.Resources.resources
+C:\Documents and Settings\James\Desktop\SpaceCode\SpaceCode\obj\Debug\SpaceCode.SpaceControl.resources
+C:\Documents and Settings\James\Desktop\SpaceCode\SpaceCode\obj\Debug\SpaceCode.Sprite.resources
+C:\Documents and Settings\James\Desktop\SpaceCode\SpaceCode\obj\Debug\SpaceCode.csproj.GenerateResource.Cache
+C:\Documents and Settings\James\Desktop\SpaceCode\SpaceCode\obj\Debug\SpaceCode.exe
+C:\Documents and Settings\James\Desktop\SpaceCode\SpaceCode\obj\Debug\SpaceCode.pdb
