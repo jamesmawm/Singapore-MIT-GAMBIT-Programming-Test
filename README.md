@@ -9,8 +9,7 @@ What I've Changed
 
 What We Can Do
 =====
-- Add more cool and fun stuffs ;)
-- Then we can play with it
+- Add more cool and fun stuffs ;) ... then we can play with it.
 
 
 
